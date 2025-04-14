@@ -1,4 +1,5 @@
-# YOLO-ByteTrackCarCounting2Lanes
+# Architecting an Automated Traffic Monitoring Pipeline: Leveraging YOLO and ByteTrack for High-Fidelity Vehicle Trajectory Estimation and Counting within Defined Lane Corridors.
+
 
 Put your video into video folder first, and then run:
 - python main.py
